@@ -8,7 +8,8 @@
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
-
+<a>
+</a>
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
